@@ -3,3 +3,4 @@ name = "argent"
 version = "0.1.0"
 authors = ["David Kushner <root@davidkushner.me>"]
 license = "MIT"
+description = "Helpful library for working with currencies."
